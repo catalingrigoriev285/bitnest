@@ -14,3 +14,6 @@ Open Source:
 
 <b>Why Choose Bitnest?
 Bitnest combines the best of security, usability, and community-driven development. Whether you are a crypto enthusiast, a trader, or a developer, Bitnest provides the tools you need to manage your digital assets effectively. Embrace the future of finance with Bitnest—your secure, open-source crypto wallet.</b>
+
+# Recovery Phrase
+alert crisp reason hover feature horse volume long envelope critic name festival
