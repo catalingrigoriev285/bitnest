@@ -1,4 +1,5 @@
 # BitNest
+![alt text](/assets/cover.jpg)
 Ultimate crypto wallet designed with security, transparency, and user empowerment in mind. Bitnest is an open-source wallet that enables you to store, manage, and trade your digital assets with confidence and ease.
 
 Key Features:
