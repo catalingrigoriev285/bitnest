@@ -85,3 +85,6 @@ Private Key: 0xdf57089febbacf7ba0bc227dafbffa9fc08a93fdc68e1e42411a14efcf23656e
 
 WARNING: These accounts, and their private keys, are publicly known.
 Any funds sent to them on Mainnet or any other live network WILL BE LOST.
+
+# LockModule#Lock
+0x5FbDB2315678afecb367f032d93F642f64180aa3
