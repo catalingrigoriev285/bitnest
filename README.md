@@ -13,5 +13,6 @@ Open Source:
 7. Decentralized Exchange Integration: Trade your cryptocurrencies directly from Bitnest with integrated decentralized exchange features, ensuring fast and secure transactions without leaving your wallet.
 8. Comprehensive Backup and Recovery: Never worry about losing access to your funds. Bitnest offers robust backup and recovery options to ensure you can always regain control of your assets.
 
-<b>Why Choose Bitnest?
-Bitnest combines the best of security, usability, and community-driven development. Whether you are a crypto enthusiast, a trader, or a developer, Bitnest provides the tools you need to manage your digital assets effectively. Embrace the future of finance with Bitnest—your secure, open-source crypto wallet.</b>
+<b>Why Bitnest?</b>
+
+Bitnest combines the best of security, usability, and community-driven development. Whether you are a crypto enthusiast, a trader, or a developer, Bitnest provides the tools you need to manage your digital assets effectively. Embrace the future of finance with Bitnest—your secure, open-source crypto wallet.
